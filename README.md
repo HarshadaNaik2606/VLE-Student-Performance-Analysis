@@ -28,6 +28,3 @@ This project analyses the impact of Virtual Learning Environment (VLE) engagemen
 - Higher VLE engagement is strongly associated with better academic performance
 - Decision Tree achieved ~85% prediction accuracy
 - Engagement (sum_click) is the most important predictor
-
-## Author
-Your Name
