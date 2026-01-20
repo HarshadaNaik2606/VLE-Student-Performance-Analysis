@@ -14,10 +14,6 @@ This project analyses the impact of Virtual Learning Environment (VLE) engagemen
 - Hypothesis Testing (Welch’s t-test)
 - Decision Tree Classification
 
-## Files in this Repository
-- `DecisionTree_Vle_for_open_university.ipynb` – Jupyter notebook containing analysis and models
-- `Virtual Learning Environment Report_291746.docx` – Detailed academic report
-
 ## Tools & Technologies
 - Python
 - Pandas, NumPy
